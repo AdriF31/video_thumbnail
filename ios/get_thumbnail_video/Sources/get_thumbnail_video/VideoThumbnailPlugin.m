@@ -1,4 +1,4 @@
-#import "VideoThumbnailPlugin.h"
+#import "./include/get_thumbnail_video/VideoThumbnailPlugin.h"
 #import <AVFoundation/AVFoundation.h>
 #import <UIKit/UIKit.h>
 
